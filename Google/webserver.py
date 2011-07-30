@@ -10,10 +10,6 @@ PORT_NUMBER = 9000 # Maybe set this to 9000.
 
 class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     page = ""
-    def do_HEAD(self):
-        self.send_response(200)
-        self.send_header("Content-type", "text/html")
-        self.end_headers()
     def do_GET(self):
         """Respond to a GET request."""
         self.send_response(200)
@@ -21,6 +17,28 @@ class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(MyHandler.page)
 
+class DataTableHandler(MyHandler):
+    
+    
+    def do_GET(self):
+        """Respond to a GET request."""
+        path = self.path.lstrip('/')
+        p_elements = path.split("?")
+        cmd = p_elements[0]
+        if cmd == '':
+            self.send_response(200)
+            self.send_header("Content-type", "text/html")
+            self.end_headers()
+            self.wfile.write(self.page)
+        elif cmd == 'search':
+            self.send_response(200)
+            self.send_header("Content-type", "text/plain")
+            self.end_headers()
+            content = self.data_table.ToJSonResponse()
+            self.wfile.write(content)
+            
+    
+    
 
 def serve_page(html_src):
     MyHandler.page = html_src
