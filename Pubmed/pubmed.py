@@ -5,6 +5,7 @@ from Bio import Entrez
 import pickle
 import re
 from progressbar import progressBar
+import os
 
 Entrez.email = "muchatel@poczta.com" 
 
@@ -18,7 +19,8 @@ def list_keys(data, spaces=""):
             pass
 
 def load_countries():
-    with  open("iso_countries.csv") as f:
+    path, _ =  os.path.split(__file__)
+    with  open(os.path.join(path,"iso_countries.csv")) as f:
         country_list = []
         for line in f.readlines():
             country, code = line.split(';')
@@ -115,8 +117,6 @@ def get_affiliations(search_data):
         except KeyError:
             affiliations.append("N/A")
     return affiliations
-
-
 
 
 

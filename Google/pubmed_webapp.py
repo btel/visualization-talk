@@ -18,9 +18,13 @@
 
 __author__ = "Bartosz Telenczuk"
 
+import sys
+sys.path.append('../Pubmed')
 import gviz_api
-from webserver import DataTableHandler
+from webserver import MyHandler
 from BaseHTTPServer import HTTPServer
+import urlparse
+import pubmed
 
 page_template = """
 <html>
@@ -37,7 +41,8 @@ page_template = """
       
       function initialize()
       {
-      var query = new google.visualization.Query('http://127.0.0.1:9000/search?keyword=test');
+      keyword = document.getElementById('search_field').value 
+      var query = new google.visualization.Query('http://127.0.0.1:9000/search?keyword=' + keyword);
       query.send(drawChart);
       }
       
@@ -68,16 +73,60 @@ page_template = """
   <body>
     <!--Div that will hold the pie chart-->
     <div id="map_canvas"></div>
+    <form name="SearchForm">
+    <input type="text" id="search_field" size="55" value="python">
+    <input type="button" name="update" id="updateButton" value="Search" onClick="initialize();">
+    </form>
   </body>
 </html>
 """
 
+def get_datatable(term):
+    search_results = pubmed.pubmed_search(term, max_count=100) 
+    aff = pubmed.get_affiliations(search_results)
+    countries = pubmed.search_countries(aff)
+
+    description = [("Country", "string"),
+                    ("Count", "number")
+                    ]
+    
+    data = list(countries.items())
+    
+    data_table = gviz_api.DataTable(description)
+    data_table.LoadData(data)
+
+    return data_table
+
+class PubmedHandler(MyHandler):
+    
+    
+    def do_GET(self):
+        """Respond to a GET request."""
+        url_parsed = urlparse.urlparse(self.path)
+        path = url_parsed.path.lstrip("/")
+        print url_parsed, path
+        #import pdb; pdb.set_trace()
+        if path == '':
+            self.send_response(200)
+            self.send_header("Content-type", "text/html")
+            self.end_headers()
+            self.wfile.write(self.page)
+        elif path == 'search':
+            query = urlparse.parse_qs(url_parsed.query)
+            keyword = query.setdefault("keyword", "python")
+            tqx = dict([q.split(':') for q in query['tqx'][0].split(';')])
+            
+            self.send_response(200)
+            self.send_header("Content-type", "text/plain")
+            self.end_headers()
+            data_table = get_datatable(keyword)
+            content = data_table.ToJSonResponse(req_id=int(tqx['reqId']))
+            self.wfile.write(content)
 
 
-def serve(html_src, data_table):
-    DataTableHandler.page = html_src
-    DataTableHandler.data_table = data_table
-    httpd = HTTPServer(("", 9000), DataTableHandler)
+def serve(html_src):
+    PubmedHandler.page = html_src
+    httpd = HTTPServer(("", 9000), PubmedHandler)
     print "Visit address http://127.0.0.1:9000 in your browser."
     try:
         httpd.serve_forever()
@@ -86,29 +135,7 @@ def serve(html_src, data_table):
     httpd.server_close()
 
 def main():
-    description = [("Country", "string"),
-                    ("Count", "number")
-                    ]
-    
-    data = []
-    with open('country.csv') as f:
-        for line in f.readlines():
-            country, count = line.split(',')
-            data.append([country, int(count)])
-
-    # Loading it into gviz_api.DataTable
-    data_table = gviz_api.DataTable(description)
-    data_table.LoadData(data)
-
-    # Creating a JavaScript code string
-    jscode = data_table.ToJSCode("jscode_data")
-    # Creating a JSon string
-    #json = data_table.ToJSon(columns_order=("name", "salary", "full_time"),
-    #                        order_by="salary")
-
-    # Putting the JS code and JSon string into the template
-   
-    serve(page_template, data_table)
+    serve(page_template)
 
 
 
