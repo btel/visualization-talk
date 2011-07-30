@@ -10,16 +10,16 @@ PORT_NUMBER = 9000 # Maybe set this to 9000.
 
 class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     page = ""
-    def do_HEAD(s):
-        s.send_response(200)
-        s.send_header("Content-type", "text/html")
-        s.end_headers()
-    def do_GET(s):
+    def do_HEAD(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+    def do_GET(self):
         """Respond to a GET request."""
-        s.send_response(200)
-        s.send_header("Content-type", "text/html")
-        s.end_headers()
-        s.wfile.write(MyHandler.page)
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        self.wfile.write(MyHandler.page)
 
 
 def serve_page(html_src):
@@ -28,9 +28,9 @@ def serve_page(html_src):
     print "Visit address http://127.0.0.1:9000 in your browser."
     try:
         httpd.serve_forever()
-    except KeyboardInterupt:
+    except KeyboardInterrupt:
         pass
-    http.server_close()
+    httpd.server_close()
 
 if __name__ == "__main__":
     page = """
