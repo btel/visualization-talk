@@ -38,7 +38,8 @@ preparation - from design to the final figure ready for submission.
    * ``CW`` carapace width (mm).
    * ``BD`` body depth (mm).
 
-   Recommend way of doing it is with ``numpy.recfromcsv`` function,
+   Recommend way of doing it is with ``numpy.recfromcsv`` function
+   (returns a numpy record array introduced during the numpy lecture),
    but other alternatives are allowed (such as ``csv`` module or
    standard IO).
 
@@ -46,7 +47,7 @@ preparation - from design to the final figure ready for submission.
    against each other. Do not forget to update labels!
 
 4. Add a third dimension to the plot using different methods (choose
-   one or two):
+   two):
 
    * plot two different dependent (y) variable against the same
      independent (x) variable using different markers. Use double
@@ -107,7 +108,7 @@ preparation - from design to the final figure ready for submission.
          
          %.pdf : %.svg
              inkscape $< --export-pdf=$@
-
+      
 8. "Test drive" your figure. Use the "Visualization Checklist"
    (presented during the lecture and available together with handouts)
    to test whether your figure is optimally designed. What could be
