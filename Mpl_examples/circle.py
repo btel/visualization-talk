@@ -124,7 +124,6 @@ x1,y1 = axes.transData.transform_point((0.0, 1.0))
 unit = float(x1-x0)
 
 
-plt.ion()
 for i in range(len(labels)):
     angle_rad = i/float(len(labels))*2*np.pi
     angle_deg = i/float(len(labels))*360
