@@ -7,9 +7,9 @@ This approach allows for flexible control over the presentation of
 your data, avoiding, often confusing, default settings. However, in
 practice, you will often combine the fexibility of object-oriented API
 and the expressivity of pyplot interface (if you are not familiar with
-the latter, please go to Basic matplotlib exercises).
+the latter, please take a look at "Basic matplotlib" exercises).
 
-From matplotlib maunal (http://matplotlib.sourceforge.net/users/artists.html):
+From matplotlib manual (http://matplotlib.sourceforge.net/users/artists.html):
 
 "There are three layers to the matplotlib API. The
 matplotlib.backend_bases.FigureCanvas is the area onto which the
@@ -23,7 +23,7 @@ all the high level constructs like representing and laying out the
 figure, text, and lines. The typical user will spend 95% of his time
 working with the Artists. "
 
-In this exercises we will focus on artists.
+In this exercises we will focus on Artists.
 """
 
 
