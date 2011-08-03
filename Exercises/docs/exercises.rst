@@ -1,6 +1,28 @@
 Visualization Exercises
 =======================
 
+Basic matplotlib: interactive mode
+-----------------------------------
+
+Advanced matplotlib: Publication-ready plots
+--------------------------------------------
+
+The goal of this exercise is to get accustomed to object-oriented interface to matplotlib and go through entire process of figure preparation - from design to the final figure ready for submission.
+
+1. Open the supplied example of  ``mpl_template.py``.
+   
+   * Read comments and identify basic matplotlib artists (like lines, axes, etc.)
+   * Try to determine how subclassing is used to define axes lines
+     (``spines``
+     in matplotlib) that provide framing and at the same time show data
+     range (range frames, see Tufte, The Visual Display of Quantitative
+     Information) and hide the default top ticks.
+
+2.
+ 
+
+
+
 Visualising Pubmed search on the Web
 ------------------------------------
 

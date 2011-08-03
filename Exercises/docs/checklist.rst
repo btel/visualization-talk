@@ -17,6 +17,10 @@ Data representation
 
   See [WongMay2011]_
 
+* Grouping by similarity, proximity and connection: Do related objects, such as data points and labels look alike, are connected by lines, placed close together or enclosed in a common space?
+
+  See [WongNovember2010]_
+
 Colors
 ------
 
@@ -28,9 +32,6 @@ Colors
 
   See  [WongAugust2010]_, [WongJune2011]_
 
-* Grouping by similarity, proximity and connection: Do related objects, such as data points and labels look alike, are connected by lines, placed close together or enclosed in a common space?
-
-  See [WongNovember2010]_
  
 Layout
 ------
@@ -39,7 +40,7 @@ Layout
 
   See [WongNovember2010]_
 
-* Arrangement: Are the figure/poster/slide elements aligned to (possibly implied) guides to express the figure's underlying meaning? 
+* Arrangement: Are the figure/poster/slide elements aligned to (possibly implied) guides to emphasise the flow of arguments and express the figure's underlying meaning? 
 
   See [WongDecember2010]_
 
