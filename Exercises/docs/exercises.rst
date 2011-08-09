@@ -193,11 +193,11 @@ preparation - from design to the final figure ready for submission.
 
 7. Preparing publication-quality figure file. Let us assume that you
    want to prepare the final figure for submission by combining
-   panels each of which contains one of the figure presented above.
+   panels each of which contains one of the figures presented above.
    Although it is possible (and straigthforward) to do that by
-   creating independent axes in the figure, often such approach proves
-   to pose several problems (for example, if the panel itself contains
-   several axes, we would have to shift all of them to new positions). 
+   creating independent axes in the figure, often such approach poses
+   several problems (for example, if the panel itself contains several
+   axes, we would have to shift all of them to new positions).
    Therefore, here we will do that as a post processing step:
 
    * choose two of above figures and export them to SVG file.
