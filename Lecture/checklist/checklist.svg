@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="checklist.svg"
+   onload="on_load(evt);">
+  <script
+     xlink:href=""
+     id="script3063" />
+  <script
+     xlink:href="checklist.js"
+     id="script2986" />
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57003451"
+     inkscape:cx="-0.27986942"
+     inkscape:cy="254.31351"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3759"
+     showgrid="false"
+     inkscape:window-width="774"
+     inkscape:window-height="706"
+     inkscape:window-x="2"
+     inkscape:window-y="982"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     guidetolerance="10000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3378"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       position="826.26576,36.839875"
+       orientation="0,744.09448"
+       id="guide11842" />
+    <sodipodi:guide
+       position="708.72902,1077.1278"
+       orientation="-1052.3622,0"
+       id="guide11844" />
+    <sodipodi:guide
+       position="682.41482,1019.2365"
+       orientation="0,-744.09448"
+       id="guide11846" />
+    <sodipodi:guide
+       position="35.085595,1070.1106"
+       orientation="1052.3622,0"
+       id="guide11848" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="36.394135"
+       y="59.302273"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="36.394135"
+         y="59.302273">Visualization Checklist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="124.08059"
+       y="384.89417"
+       id="text3763"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3765"
+         x="124.08059"
+         y="384.89417" /></text>
+    <g
+       id="g3879"
+       transform="translate(0,2)">
+      <text
+         xml:space="preserve"
+         x="38"
+         y="878.26794"
+         id="text3537"><tspan
+           sodipodi:role="line"
+           id="tspan3539"
+           x="38"
+           y="878.26794"
+           style="font-size:11px"><tspan
+   id="tspan3839"
+   style="font-size:65.00091553%;baseline-shift:super">1</tspan>Color coding, <tspan
+   style="font-size:11px;font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3581">Nature Methods</tspan><tspan
+   style="font-size:11px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3601"> 7</tspan>(8):573, 2010</tspan><tspan
+           sodipodi:role="line"
+           x="38"
+           y="892.01794"
+           id="tspan3541"
+           style="font-size:11px"><tspan
+   id="tspan3841"
+   style="font-size:65.00091553%;baseline-shift:super">2</tspan>Design of data figures, <tspan
+   style="font-size:11px;font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3583">Nature Methods</tspan><tspan
+   style="font-size:11px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3603"> 7</tspan>(9):665, 2010</tspan><tspan
+           sodipodi:role="line"
+           x="38"
+           y="905.76794"
+           id="tspan3543"
+           style="font-size:11px"><tspan
+   id="tspan3843"
+   style="font-size:65.00091553%;baseline-shift:super">3</tspan>Salience, <tspan
+   style="font-size:11px;font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3585">Nature Methods</tspan><tspan
+   style="font-size:11px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3605"> 7</tspan>(10):773, 2010</tspan><tspan
+           sodipodi:role="line"
+           x="38"
+           y="919.51794"
+           id="tspan3545"
+           style="font-size:11px"><tspan
+   id="tspan3845"
+   style="font-size:65.00091553%;baseline-shift:super">4</tspan>Gestalt principles (Part 1), <tspan
+   style="font-size:11px;font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3587">Nature Methods</tspan><tspan
+   style="font-size:11px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3607"> 7</tspan>(11):863, 2010</tspan><tspan
+           sodipodi:role="line"
+           x="38"
+           y="933.26794"
+           id="tspan3557"
+           style="font-size:11px"><tspan
+   id="tspan3847"
+   style="font-size:65.00091553%;baseline-shift:super">5</tspan>Gestalt principles (Part 2),<tspan
+   style="font-size:11px;font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3589"> Nature Methods</tspan><tspan
+   style="font-size:11px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3609"> 7</tspan>(12):941, 2010</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="410"
+         y="878.36218"
+         id="text3721"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3723"
+           x="410"
+           y="878.36218"
+           style="font-size:11px"><tspan
+   id="tspan3849"
+   style="font-size:65.00091553%;baseline-shift:super">6</tspan>Negative space, <tspan
+   id="tspan3859"
+   style="font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique">Nature Methods</tspan><tspan
+   id="tspan3869"
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"> 8</tspan>(1):1, 2011</tspan><tspan
+           sodipodi:role="line"
+           x="410"
+           y="892.11218"
+           id="tspan3725"
+           style="font-size:11px"><tspan
+   id="tspan3851"
+   style="font-size:65.00091553%;baseline-shift:super">7</tspan>Typography, <tspan
+   id="tspan3861"
+   style="font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique">Nature Methods</tspan><tspan
+   id="tspan3871"
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"> 8</tspan>(4):277, 2011</tspan><tspan
+           sodipodi:role="line"
+           x="410"
+           y="905.86218"
+           id="tspan3727"
+           style="font-size:11px"><tspan
+   id="tspan3853"
+   style="font-size:65.00091553%;baseline-shift:super">8</tspan>The overview figure, <tspan
+   id="tspan3863"
+   style="font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique">Nature Methods</tspan><tspan
+   id="tspan3873"
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"> 8</tspan>(5):365, 2011</tspan><tspan
+           sodipodi:role="line"
+           x="410"
+           y="919.61218"
+           id="tspan3729"
+           style="font-size:11px"><tspan
+   id="tspan3855"
+   style="font-size:65.00091553%;baseline-shift:super">9</tspan>Color blindness, <tspan
+   id="tspan3865"
+   style="font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique">Nature Methods</tspan><tspan
+   id="tspan3875"
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"> 8</tspan>(6):441, 2011</tspan><tspan
+           sodipodi:role="line"
+           x="410"
+           y="933.36218"
+           id="tspan3731"
+           style="font-size:11px"><tspan
+   id="tspan3857"
+   style="font-size:65.00091553%;baseline-shift:super">10</tspan>Avoiding color, <tspan
+   id="tspan3867"
+   style="font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique">Nature Methods</tspan><tspan
+   id="tspan3877"
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"> 8</tspan>(7):525, 2011</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4017"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4019"><rect
+           id="rect4021"
+           width="211.79274"
+           height="246.02187"
+           x="260.9971"
+           y="855.54468" /></flowRegion><flowPara
+         id="flowPara4023" /></flowRoot>    <g
+       id="g3815"
+       transform="translate(0,-14)">
+      <g
+         id="g3759"
+         transform="matrix(0.75248855,0,0,0.75248855,152.62644,983.37576)">
+        <g
+           transform="translate(-3.1747355,-5e-4)"
+           id="g3856">
+          <circle
+             d="M 66.049,28.631001 C 66.049,44.705248 53.018248,57.736 36.944,57.736 20.869753,57.736 7.8390007,44.705248 7.8390007,28.631001 c 0,-16.074248 13.0307523,-29.10500002 29.1049993,-29.10500002 16.074248,0 29.105,13.03075202 29.105,29.10500002 z"
+             style="fill:#ffffff"
+             sodipodi:ry="29.105"
+             sodipodi:rx="29.105"
+             sodipodi:cy="28.631001"
+             sodipodi:cx="36.944"
+             cx="36.944"
+             cy="28.631001"
+             r="29.105"
+             id="circle3858" />
+          <g
+             id="g3860">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 37.443,-3.5 c 8.951,0 16.531,3.105 22.742,9.315 6.208,6.172 9.315,13.733 9.315,22.685 0,8.954 -3.049,16.457 -9.145,22.514 C 53.918,57.338 46.279,60.5 37.443,60.5 28.794,60.5 21.29,57.357 14.929,51.071 8.644,44.786 5.5,37.264 5.5,28.501 5.5,19.778 8.644,12.216 14.929,5.816 21.138,-0.395 28.643,-3.5 37.443,-3.5 z m 0.114,5.772 c -7.276,0 -13.428,2.572 -18.457,7.715 -5.22,5.296 -7.829,11.467 -7.829,18.513 0,7.125 2.59,13.257 7.77,18.4 5.181,5.182 11.352,7.771 18.514,7.771 7.123,0 13.334,-2.609 18.629,-7.828 5.029,-4.876 7.543,-10.99 7.543,-18.343 0,-7.313 -2.553,-13.485 -7.656,-18.513 C 51.004,4.842 44.832,2.272 37.557,2.272 z M 23.271,23.985 c 0.609,-3.924 2.189,-6.962 4.742,-9.114 2.552,-2.152 5.656,-3.228 9.314,-3.228 5.027,0 9.029,1.62 12,4.856 2.971,3.238 4.457,7.391 4.457,12.457 0,4.915 -1.543,9 -4.627,12.256 -3.088,3.256 -7.086,4.886 -12.002,4.886 -3.619,0 -6.743,-1.085 -9.371,-3.257 -2.629,-2.172 -4.209,-5.257 -4.743,-9.257 H 31.1 c 0.19,3.886 2.533,5.829 7.029,5.829 2.246,0 4.057,-0.972 5.428,-2.914 1.373,-1.942 2.059,-4.534 2.059,-7.771 0,-3.391 -0.629,-5.971 -1.885,-7.743 -1.258,-1.771 -3.066,-2.657 -5.43,-2.657 -4.268,0 -6.667,1.885 -7.2,5.656 h 2.343 l -6.342,6.343 -6.343,-6.343 2.512,10e-4 0,0 z"
+               id="path3862" />
+          </g>
+        </g>
+        <g
+           transform="translate(-79.68656,-5e-4)"
+           id="g3928">
+          <circle
+             d="m 65.913,28.806 c 0,15.616403 -12.659596,28.275999 -28.275999,28.275999 C 22.020598,57.081999 9.361002,44.422403 9.361002,28.806 9.361002,13.189597 22.020598,0.53000069 37.637001,0.53000069 53.253404,0.53000069 65.913,13.189597 65.913,28.806 z"
+             style="fill:#ffffff"
+             sodipodi:ry="28.275999"
+             sodipodi:rx="28.275999"
+             sodipodi:cy="28.806"
+             sodipodi:cx="37.637001"
+             cx="37.637001"
+             cy="28.806"
+             r="28.275999"
+             id="circle3930" />
+          <g
+             id="g3932">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 37.443,-3.5 c 8.988,0 16.57,3.085 22.742,9.257 6.208,6.21 9.315,13.791 9.315,22.743 0,8.991 -3.049,16.476 -9.145,22.456 C 53.879,57.319 46.242,60.5 37.443,60.5 28.794,60.5 21.29,57.356 14.929,51.07 8.644,44.784 5.5,37.262 5.5,28.5 5.5,19.739 8.644,12.158 14.929,5.758 21.101,-0.415 28.604,-3.5 37.443,-3.5 z m 0.114,5.772 c -7.276,0 -13.428,2.553 -18.457,7.657 -5.22,5.334 -7.829,11.525 -7.829,18.572 0,7.086 2.59,13.22 7.77,18.398 5.181,5.182 11.352,7.771 18.514,7.771 7.123,0 13.334,-2.607 18.629,-7.828 5.029,-4.838 7.543,-10.952 7.543,-18.343 0,-7.276 -2.553,-13.465 -7.656,-18.571 C 50.967,4.824 44.795,2.272 37.557,2.272 z m 8.572,18.285 V 33.642 H 42.473 V 49.184 H 32.529 V 33.643 H 28.873 V 20.557 c 0,-0.572 0.2,-1.057 0.599,-1.457 0.401,-0.399 0.887,-0.6 1.457,-0.6 h 13.144 c 0.533,0 1.01,0.2 1.428,0.6 0.417,0.4 0.628,0.886 0.628,1.457 z M 33.042,12.329 c 0,-3.008 1.485,-4.514 4.458,-4.514 2.973,0 4.457,1.504 4.457,4.514 0,2.971 -1.486,4.457 -4.457,4.457 -2.971,0 -4.458,-1.486 -4.458,-4.457 z"
+               id="path3934" />
+          </g>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m -118.75639,-3.5 c 8.951,0 16.572,3.125 22.856997,9.372 3.008,3.009 5.295,6.448 6.857,10.314 1.561,3.867 2.344,7.971 2.344,12.314 0,4.381 -0.773,8.486 -2.314,12.313 -1.543,3.828 -3.82,7.21 -6.828,10.143 -3.123,3.085 -6.665997,5.448 -10.628997,7.086 -3.961,1.638 -8.057,2.457 -12.285,2.457 -4.228,0 -8.276,-0.808 -12.143,-2.429 -3.866,-1.618 -7.333,-3.961 -10.4,-7.027 -3.067,-3.066 -5.4,-6.524 -7,-10.372 -1.6,-3.848 -2.4,-7.904 -2.4,-12.171 0,-4.229 0.809,-8.295 2.428,-12.2 1.619,-3.905 3.972,-7.4 7.057,-10.486 6.095,-6.208 13.58,-9.314 22.456,-9.314 z m 0.116,5.772 c -7.314,0 -13.467,2.553 -18.458,7.657 -2.515,2.553 -4.448,5.419 -5.8,8.6 -1.354,3.181 -2.029,6.505 -2.029,9.972 0,3.429 0.675,6.734 2.029,9.913 1.353,3.183 3.285,6.021 5.8,8.516 2.514,2.496 5.351,4.399 8.515,5.715 3.161,1.314 6.476,1.971 9.943,1.971 3.428,0 6.75,-0.665 9.973,-1.999 3.219,-1.335 6.121,-3.257 8.712997,-5.771 4.99,-4.876 7.484,-10.99 7.484,-18.344 0,-3.543 -0.648,-6.895 -1.943,-10.057 -1.293,-3.162 -3.18,-5.98 -5.653997,-8.458 -5.146,-5.143 -11.335,-7.715 -18.573,-7.715 z m -0.401,20.915 -4.287,2.229 c -0.458,-0.951 -1.019,-1.619 -1.685,-2 -0.667,-0.38 -1.286,-0.571 -1.858,-0.571 -2.856,0 -4.286,1.885 -4.286,5.657 0,1.714 0.362,3.084 1.085,4.113 0.724,1.029 1.791,1.544 3.201,1.544 1.867,0 3.181,-0.915 3.944,-2.743 l 3.942,2 c -0.838,1.563 -2,2.791 -3.486,3.686 -1.484,0.896 -3.123,1.343 -4.914,1.343 -2.857,0 -5.163,-0.875 -6.915,-2.629 -1.752,-1.752 -2.628,-4.19 -2.628,-7.313 0,-3.048 0.886,-5.466 2.657,-7.257 1.771,-1.79 4.009,-2.686 6.715,-2.686 3.963,-0.002 6.8,1.541 8.515,4.627 z m 18.457,0 -4.229,2.229 c -0.457,-0.951 -1.02,-1.619 -1.686,-2 -0.668,-0.38 -1.307,-0.571 -1.914,-0.571 -2.857,0 -4.287,1.885 -4.287,5.657 0,1.714 0.363,3.084 1.086,4.113 0.723,1.029 1.789,1.544 3.201,1.544 1.865,0 3.18,-0.915 3.941,-2.743 l 4,2 c -0.875,1.563 -2.057,2.791 -3.541,3.686 -1.486,0.896 -3.105,1.343 -4.857,1.343 -2.896,0 -5.209,-0.875 -6.941,-2.629 -1.736,-1.752 -2.602,-4.19 -2.602,-7.313 0,-3.048 0.885,-5.466 2.658,-7.257 1.77,-1.79 4.008,-2.686 6.713,-2.686 3.962,-0.002 6.783,1.541 8.458,4.627 z"
+           id="path4002" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4025"
+         y="993.13184"
+         x="212"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3747"
+           style="font-size:12px;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="993.13184"
+           x="212"
+           sodipodi:role="line">Visualization Checklist by Bartosz Telenczuk is licensed under </tspan><tspan
+           id="tspan3774"
+           style="font-size:12px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="1008.1318"
+           x="212"
+           sodipodi:role="line">Creative Commons Attribution-ShareAlike 3.0  Unported License. </tspan><tspan
+           style="font-size:12px"
+           id="tspan4033"
+           y="1023.1318"
+           x="212"
+           sodipodi:role="line">To view a copy of this license,  visit <tspan
+   id="tspan4039"
+   style="font-size:12px;fill:#0000ff">http://creativecommons.org/licenses/by-sa/3.0/</tspan></tspan></text>
+    </g>
+    <g
+       onclick="uncheck(evt)"
+       transform="translate(3.6820273,142.86266)"
+       id="g3051" />
+    <g
+       id="g3338"
+       transform="translate(5.9931183,-2.529007)">
+      <g
+         id="g3080"
+         transform="translate(20,6.1147461e-5)">
+        <g
+           id="g3045"
+           transform="translate(-251.37113,-61.650324)"
+           onclick="uncheck(evt)">
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4"
+             id="rect3047"
+             width="25.037785"
+             height="24.30138"
+             x="278.36127"
+             y="217.2784" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none"
+             id="path3049"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           x="66.442429"
+           y="162.89107"
+           id="text4370"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="162.89107"
+             id="tspan4754"><tspan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4467">Use of visual clues</tspan><tspan
+   style="font-style:normal;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan3923">: </tspan>Does the graph use strong and accurate visual clues such as</tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="180.39107"
+             id="tspan4763"> lentgths and positions?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan3933">2</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="197.89107"
+             id="tspan4376" /></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3076"
+         y="128.59824"
+         x="28.934601"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="128.59824"
+           x="28.934601"
+           id="tspan3078"
+           sodipodi:role="line">Data representation</tspan></text>
+      <g
+         transform="translate(20,49.333374)"
+         id="g3090">
+        <g
+           onclick="uncheck(evt)"
+           transform="translate(-251.37113,-61.650324)"
+           id="g3092">
+          <rect
+             y="217.2784"
+             x="278.36127"
+             height="24.30138"
+             width="25.037785"
+             id="rect3094"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             id="path3096"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3098"
+           y="162.89107"
+           x="66.442429"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="162.89107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4483"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4485">Salience</tspan>: Are the important patterns in the presented data emphasised by use of </tspan><tspan
+             y="180.39107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4770">salient visual features such as color, size, shape or added marks?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4509">3 </tspan></tspan></text>
+      </g>
+      <g
+         id="g3108"
+         transform="translate(20,98.666687)">
+        <g
+           id="g3110"
+           transform="translate(-251.37113,-61.650324)"
+           onclick="uncheck(evt)">
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4"
+             id="rect3112"
+             width="25.037785"
+             height="24.30138"
+             x="278.36127"
+             y="217.2784" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none"
+             id="path3114"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           x="66.442429"
+           y="162.89107"
+           id="text3116"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="162.89107"
+             id="tspan4528"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4516">Symbol uniqueness</tspan>: Are the same symbols always used in the same context and </tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="180.39107"
+             id="tspan4777">different symbols do not have overlapping meanings?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4549">8</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="197.89107"
+             id="tspan3124" /></text>
+      </g>
+      <g
+         transform="translate(20,148)"
+         id="g3126">
+        <g
+           onclick="uncheck(evt)"
+           transform="translate(-251.37113,-61.650324)"
+           id="g3128">
+          <rect
+             y="217.2784"
+             x="278.36127"
+             height="24.30138"
+             width="25.037785"
+             id="rect3130"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             id="path3132"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3134"
+           y="162.89107"
+           x="66.442429"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="162.89107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4541"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4545">Grouping</tspan>: Do related objects, such as data points and labels look alike, are connected </tspan><tspan
+             y="180.39107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4547">by lines, placed close together or enclosed in a common space?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4551">4</tspan></tspan><tspan
+             id="tspan3142"
+             y="197.89107"
+             x="66.442429"
+             sodipodi:role="line" /></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.151887,955.09243 673.850903,0"
+       id="path3935"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(6.7489776,259.22685)"
+       id="g4102">
+      <g
+         transform="translate(20,6.1147461e-5)"
+         id="g4104">
+        <g
+           onclick="uncheck(evt)"
+           transform="translate(-251.37113,-61.650324)"
+           id="g4106">
+          <rect
+             y="217.2784"
+             x="278.36127"
+             height="24.30138"
+             width="25.037785"
+             id="rect4108"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             id="path4110"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4112"
+           y="162.89107"
+           x="66.442429"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="162.89107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4563"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4565">Use of colors</tspan>: Are the colors necessary and can not be replaced by positional marks </tspan><tspan
+             y="180.39107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4784">and/or lines?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4567">10</tspan></tspan><tspan
+             y="197.89107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4559" /><tspan
+             id="tspan4124"
+             y="215.39107"
+             x="66.442429"
+             sodipodi:role="line" /></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="28.934601"
+         y="128.59824"
+         id="text4126"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4128"
+           x="28.934601"
+           y="128.59824"
+           style="font-size:18px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Colors</tspan></text>
+      <g
+         id="g4130"
+         transform="translate(20,49.333374)">
+        <g
+           id="g4132"
+           transform="translate(-251.37113,-61.650324)"
+           onclick="uncheck(evt)">
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4"
+             id="rect4134"
+             width="25.037785"
+             height="24.30138"
+             x="278.36127"
+             y="217.2784" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none"
+             id="path4136"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           x="66.442429"
+           y="162.89107"
+           id="text4138"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="162.89107"
+             id="tspan4588"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4578">Color coding</tspan>: Are the colors used in the presentation discriminable (also for color-</tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="180.39107"
+             id="tspan4594">blind and in black&amp;white print) and do not introduce bias or unwanted artifacts?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4596">1,9</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="197.89107"
+             id="tspan4576" /><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="215.39107"
+             id="tspan4146" /></text>
+      </g>
+    </g>
+    <g
+       transform="translate(7.5575714,631.47104)"
+       id="g4248">
+      <g
+         transform="translate(20,6.1147461e-5)"
+         id="g4250">
+        <g
+           onclick="uncheck(evt)"
+           transform="translate(-251.37113,-61.650324)"
+           id="g4252">
+          <rect
+             y="217.2784"
+             x="278.36127"
+             height="24.30138"
+             width="25.037785"
+             id="rect4254"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             id="path4256"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4258"
+           y="172.38504"
+           x="66.442429"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             id="tspan4266"
+             y="172.38504"
+             x="66.442429"
+             sodipodi:role="line"
+             style="font-style:normal;-inkscape-font-specification:Bitstream Vera Sans Bold"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4645">Typeface</tspan>: Is the typeface used consistently and does not interfere with reading?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4656">7</tspan></tspan><tspan
+             y="189.88504"
+             x="66.442429"
+             sodipodi:role="line"
+             style="font-style:normal;-inkscape-font-specification:Bitstream Vera Sans Bold"
+             id="tspan4654" /><tspan
+             id="tspan4270"
+             y="207.38504"
+             x="66.442429"
+             sodipodi:role="line" /></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="28.934601"
+         y="128.59824"
+         id="text4272"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4274"
+           x="28.934601"
+           y="128.59824"
+           style="font-size:18px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Typography</tspan></text>
+    </g>
+    <g
+       transform="translate(5.9931183,421.76237)"
+       id="g4387">
+      <g
+         transform="translate(20,6.1147461e-5)"
+         id="g4389">
+        <g
+           onclick="uncheck(evt)"
+           transform="translate(-251.37113,-61.650324)"
+           id="g4391">
+          <rect
+             y="217.2784"
+             x="278.36127"
+             height="24.30138"
+             width="25.037785"
+             id="rect4393"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             id="path4395"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4397"
+           y="171.58638"
+           x="66.442429"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             id="tspan4405"
+             y="171.58638"
+             x="66.442429"
+             sodipodi:role="line"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4602">Grouping</tspan>:  Is the grouping principle (see above) correctly applied to figure panels?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4621">4</tspan></tspan><tspan
+             id="tspan4409"
+             y="189.08638"
+             x="66.442429"
+             sodipodi:role="line" /></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="28.934601"
+         y="128.59824"
+         id="text4411"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4413"
+           x="28.934601"
+           y="128.59824"
+           style="font-size:18px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Layout</tspan></text>
+      <g
+         id="g4415"
+         transform="translate(20,49.333374)">
+        <g
+           id="g4417"
+           transform="translate(-251.37113,-61.650324)"
+           onclick="uncheck(evt)">
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4"
+             id="rect4419"
+             width="25.037785"
+             height="24.30138"
+             x="278.36127"
+             y="217.2784" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none"
+             id="path4421"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           x="66.442429"
+           y="162.89107"
+           id="text4423"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="162.89107"
+             id="tspan4611"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+   id="tspan4607">Arrangement</tspan>:  Are the figure elements aligned to (possibly implied) guides to </tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="180.39107"
+             id="tspan4676">emphasise the flow of arguments and express the figure's underlying meaning?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4623">5</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="66.442429"
+             y="197.89107"
+             id="tspan4431" /></text>
+      </g>
+      <g
+         transform="translate(20,98.666687)"
+         id="g4433">
+        <g
+           onclick="uncheck(evt)"
+           transform="translate(-251.37113,-61.650324)"
+           id="g4435">
+          <rect
+             y="217.2784"
+             x="278.36127"
+             height="24.30138"
+             width="25.037785"
+             id="rect4437"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 282.15414,226.74203 c 1.67897,0.0306 2.98367,0.8723 4.16501,1.99376 1.15899,1.33432 1.71947,3.03644 2.4726,4.60848 0.52945,1.02786 0.95009,2.1051 1.42599,3.15787 0.23439,0.54678 0.51048,1.07919 0.78841,1.60486 0.035,0.0662 0.19054,0.15395 0.12381,0.18723 -0.0913,0.0456 -0.19135,-0.0705 -0.28702,-0.10583 0.0634,-0.17139 0.14298,-0.33755 0.19009,-0.51418 0.32927,-1.23433 0.45762,-2.53795 0.68702,-3.79201 0.19413,-1.06131 0.40936,-2.11861 0.61244,-3.17822 0.4384,-3.30769 0.99403,-6.58598 1.9212,-9.79176 0.735,-2.53789 1.66735,-4.63534 3.20306,-6.77471 0.57219,-0.85118 1.25615,-1.59873 1.98688,-2.30974 0,0 0.41844,0.034 0.41844,0.034 l 0,0 c -0.7336,0.70676 -1.41946,1.45079 -1.99064,2.30196 -1.53615,2.13364 -2.46997,4.22791 -3.20831,6.76022 -0.93065,3.2034 -1.48326,6.48156 -1.92058,9.78793 -0.20367,1.05922 -0.41988,2.11605 -0.61256,3.17735 -0.22844,1.25812 -0.35687,2.55866 -0.67326,3.79973 -0.0471,0.18496 -0.12438,0.3608 -0.18658,0.5412 -0.1893,0.0296 -0.37847,0.11763 -0.56793,0.0889 -0.047,-0.007 -0.84821,-1.6264 -0.90829,-1.79874 -0.4742,-1.05286 -0.89715,-2.12838 -1.42357,-3.15704 -0.74765,-1.5694 -1.30598,-3.26846 -2.4704,-4.59298 -1.18281,-1.11607 -2.49095,-1.94234 -4.1667,-1.96118 0,0 0.42089,-0.0671 0.42089,-0.0671 z"
+             id="path4439"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.4;display:none" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4441"
+           y="162.89107"
+           x="66.442429"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="162.89107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4627"><tspan
+   id="tspan4445"
+   style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Use of whitespace</tspan>: Is the whitespace regular and used effectively as a means to </tspan><tspan
+             y="180.39107"
+             x="66.442429"
+             sodipodi:role="line"
+             id="tspan4641">attract readers' attention and make the non-white content stand out?<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan4643">6</tspan></tspan><tspan
+             id="tspan4447"
+             y="197.89107"
+             x="66.442429"
+             sodipodi:role="line" /><tspan
+             id="tspan4449"
+             y="215.39107"
+             x="66.442429"
+             sodipodi:role="line" /></text>
+      </g>
+    </g>
+  </g>
+</svg>

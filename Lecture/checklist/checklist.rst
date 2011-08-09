@@ -5,30 +5,39 @@ Data Visualisation: Checklist
 Data representation
 -------------------
 
-* Use of visual clues: Does the graph use strong and accurate visual clues such as positions and lengths?
+* Use of visual clues: Does the graph use strong and accurate visual
+  clues such as positions and lengths?
 
   See [WongSeptember2010]_
 
-* Salience: Are the important patterns in the presented data emphasised by use of salient visual features such as color, size, shape or an added mark? 
+* Salience: Are the important patterns in the presented data
+  emphasised by use of salient visual features such as color, size,
+  shape or an added mark? 
 
   See [WongOctober2010]_
 
-* Symbol uniqueness: Are the same symbols always used in the same context and different symbols do not have overlapping meanings?
+* Symbol uniqueness: Are the same symbols always used in the same
+  context and different symbols do not have overlapping meanings?
 
   See [WongMay2011]_
 
-* Grouping by similarity, proximity and connection: Do related objects, such as data points and labels look alike, are connected by lines, placed close together or enclosed in a common space?
+* Grouping by similarity, proximity and connection: Do related
+  objects, such as data points and labels look alike, are connected by
+  lines, placed close together or enclosed in a common space?
 
   See [WongNovember2010]_
 
 Colors
 ------
 
-* Use of colors: Are the colors necessary and can not be replaced by positional marks and/or lines?
+* Use of colors: Are the colors necessary and can not be replaced by
+  positional marks and/or lines?
   
   See [WongJuly2011]_
 
-* Color coding: Are the colors used in the presentation discriminable (also for color-blind people and in black&white print) and do not introduce bias or unwanted artifacts?
+* Color coding: Are the colors used in the presentation discriminable
+  (also for color-blind people and in black&white print) and do not
+  introduce bias or unwanted artifacts?
 
   See  [WongAugust2010]_, [WongJune2011]_
 
@@ -40,11 +49,15 @@ Layout
 
   See [WongNovember2010]_
 
-* Arrangement: Are the figure/poster/slide elements aligned to (possibly implied) guides to emphasise the flow of arguments and express the figure's underlying meaning? 
+* Arrangement: Are the figure/poster/slide elements aligned to
+  (possibly implied) guides to emphasise the flow of arguments and
+  express the figure's underlying meaning? 
 
   See [WongDecember2010]_
 
-* Whitespace: Is the whitespace regular and used effectively as a means to attract readers' attention and make the non-white content stand out?
+* Whitespace: Is the whitespace regular and used effectively as a
+  means to attract readers' attention and make the non-white content
+  stand out?
 
   See [WongJanuary2011]_
 
