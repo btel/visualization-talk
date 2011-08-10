@@ -4,6 +4,118 @@ Visualization Exercises
 Basic matplotlib: interactive mode
 -----------------------------------
 
+This tutorial covers the  basic ``pyplot`` interface of ``matplotlib``. You will use the 
+interface to produce quickly efficient visualizations of your data.
+
+1. Basic plotting
+
+   * Generate two data arrays of equal lengths (X and Y variable).
+     This could look like this::
+         
+         import numpy as np
+         t = np.arange(0.1, 9.2, 0.15)
+         #add some noise to dependent variable
+         y = t+np.random.rand(len(t)) 
+
+   * Import ``matplotlib.pyplot`` and plot the data as an XY graph::
+
+         import matplotlib.pyplot as plt
+         plt.plot(t,y)
+         plt.show()
+
+     The plot apears only after you call ``plt.show()`` (unless you
+     are in interactive mode activated by ``plt.ion()``). I will omit
+     the line in the following examples.
+
+   * Label the axes by calling ``plt.xlabel`` and ``plt.ylabel``
+     functions.
+
+   * You can select line and point style passing a third format argument to
+     ``plt.plot`` function. For example, to plot only points::
+
+        plt.plot(t,y,'.')
+
+   * Find out from the ``plt.plot`` docstring about other formats.
+     Plot the data with red stars and dashed line.
+
+2. Importing data.
+
+   * Import the supplied CSV file ``crabs.csv``. The easiest way to do
+     it is to use ``numpy.recfromcsv`` function::
+
+         data = np.recfromcsv(``crabs.csv``)
+
+     which returns a NumPy record array with the fields as descibed in
+     Pt. 2 of Advanded matplotlib exercise.
+
+
+   * Plot 4th (FL) and 5th (RW) columns against each other.
+
+3. Escaping the flatland.
+
+   In this exercise you will try to represent 3 different variables on
+   the 2D screen using different visualization techniques.
+
+   * Plot columns ``CL`` and ``RW`` each against ``FL`` on different
+     sub-panels::
+
+         plt.subplot(211)
+         #plotting command 1
+         plt.subplot(211)
+         #plotting command 2
+
+   * Plot the same panels, but arranged vertically. 
+
+   * Plot both variables on the same panel, but using two different
+     Y axes. You may add another Y axis using ``plt.twinx`` function.
+     Don't forget to add labels.
+
+   * Plot one of the variables (``CL``) as position along the Y axis
+     and the other (``RW``) as a size of the circle. To this end, you
+     may use the ``plt.scatter`` command.
+   
+   * Which of these different representations are better in showing
+     the relations between these variables?  Choose
+     the one you find the most efficient.
+
+
+4. Grouping.
+
+   The crab data contains measurement on crabs of different species
+   and  sex (categorical variables). Group the data points belonging
+   to the same species or sex using different techniques:
+
+   * connect them by lines,
+
+   * draw them in different colors,
+
+   * draw them in different panels.
+
+   * Which of the methods allows to visualize better relation between
+     numerical data (size of the crab) and categorogical data? Choose
+     the one you find the most efficient.
+
+5. Final figure.
+   
+   * export your plot to PDF (use ``plt.savefig``)
+
+   * Compare your final figure against the Visualization checklist.
+     What might be improved? How can it be achieved in ``matplotlib``?
+
+   * If you have time left, try to implement your ideas (or ask if you
+     do not know how to start).
+
+Congratulations, you have just learnt the basics of matplotlib and you
+are ready to create your own data visualizations. I hope you enjoyed
+the exercise.
+
+**Additional resources**:
+
+http://matplotlib.sourceforge.net/users/pyplot_tutorial.html
+
+http://matplotlib.sourceforge.net/gallery.html
+
+
 Advanced matplotlib: Publication-ready plots
 --------------------------------------------
 
@@ -54,10 +166,15 @@ preparation - from design to the final figure ready for submission.
      y-axes to show the data dimensions (you may define a new Axes
      object of type ``mpl_artists.TwinAxes``).
 
-   * represent the third variable with the point size
+   * represent the third variable with the circles of different sizes
+     (Hint: use ``markersize`` keyword argument of ``Line2D``)
 
    * represent the third variable on a color scale, add a color bar
      to the plot
+
+   * represent the data as a short line segments, where the position
+     of line on XY plane encodes two of the variables and the angle of
+     the segment encodes the third one.
 
    Which of the data representation is the most accurate?
 

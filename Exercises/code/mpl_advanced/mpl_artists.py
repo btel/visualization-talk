@@ -38,13 +38,11 @@ class DataRangeSpine(mpl.spines.Spine):
 
 class BottomAxis(mpl.axis.XAxis):
     def _get_tick(self, major):
-        
         #tick2On and label2On determine whether to show top ticks
         return mpl.axis.XTick(self.axes, 0, '', tick2On=False, label2On=False, major=major)
 
 class TopAxis(mpl.axis.XAxis):
     def _get_tick(self, major):
-        
         #tick1On and label1On determine whether to show bottom ticks
         return mpl.axis.XTick(self.axes, 0, '', tick1On=False, label1On=False, major=major)
 

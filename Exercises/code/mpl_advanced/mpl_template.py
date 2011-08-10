@@ -48,7 +48,6 @@ import matplotlib as mpl
 ## this is a collection of custom artists we will use in this exercise
 #  if you want to know about object-oriented mechanics used in mpl, 
 #  look at the implementation and read the comments
-
 from mpl_artists import BasicAxes
 
 # generate some random data
