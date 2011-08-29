@@ -221,7 +221,7 @@ preparation - from design to the final figure ready for submission.
              python mpl_figure2.py mpl_figure2.svg
 
          final_figure1.svg : final_figure1.py mpl_figure1.svg mpl_figure2.svg
-             python final_figure1.py final_figure1.svg
+             python combine_svg.py
          
          %.pdf : %.svg
              inkscape $< --export-pdf=$@
