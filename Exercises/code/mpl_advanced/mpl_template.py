@@ -83,4 +83,4 @@ ax1.set_xlabel(r'voltage (V, $\mu$V)')
 ax1.set_ylabel('luminescence (L)')
 
 #export to svg
-plt.savefig('mpl_template.pdf', dpi=600)
+plt.savefig('mpl_template.svg')
