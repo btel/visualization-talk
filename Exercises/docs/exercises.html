@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.6: http://docutils.sourceforge.net/" />
+<title>Visualization Exercises</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 5951 2009-05-18 18:03:10Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left{
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: left }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document" id="visualization-exercises">
+<h1 class="title">Visualization Exercises</h1>
+
+<div class="section" id="basic-matplotlib-interactive-mode">
+<h1>Basic matplotlib: interactive mode</h1>
+<p>This tutorial covers the  basic <tt class="docutils literal">pyplot</tt> interface of <tt class="docutils literal">matplotlib</tt>. You will use the
+interface to produce quickly efficient visualizations of your data.</p>
+<ol class="arabic">
+<li><p class="first">Basic plotting</p>
+<ul>
+<li><p class="first">Generate two data arrays of equal lengths (X and Y variable).
+This could look like this:</p>
+<pre class="literal-block">
+import numpy as np
+t = np.arange(0.1, 9.2, 0.15)
+#add some noise to dependent variable
+y = t+np.random.rand(len(t))
+</pre>
+</li>
+<li><p class="first">Import <tt class="docutils literal">matplotlib.pyplot</tt> and plot the data as an XY graph:</p>
+<pre class="literal-block">
+import matplotlib.pyplot as plt
+plt.plot(t,y)
+plt.show()
+</pre>
+<p>The plot apears only after you call <tt class="docutils literal">plt.show()</tt> (unless you
+are in interactive mode activated by <tt class="docutils literal">plt.ion()</tt>). I will omit
+the line in the following examples.</p>
+</li>
+<li><p class="first">Label the axes by calling <tt class="docutils literal">plt.xlabel</tt> and <tt class="docutils literal">plt.ylabel</tt>
+functions.</p>
+</li>
+<li><p class="first">You can select line and point style passing a third format argument to
+<tt class="docutils literal">plt.plot</tt> function. For example, to plot only points:</p>
+<pre class="literal-block">
+plt.plot(t,y,'.')
+</pre>
+</li>
+<li><p class="first">Find out from the <tt class="docutils literal">plt.plot</tt> docstring about other formats.
+Plot the data with red stars and dashed line.</p>
+</li>
+</ul>
+</li>
+<li><p class="first">Importing data.</p>
+<ul>
+<li><p class="first">Import the supplied CSV file <tt class="docutils literal">crabs.csv</tt>. The easiest way to do
+it is to use <tt class="docutils literal">numpy.recfromcsv</tt> function:</p>
+<pre class="literal-block">
+data = np.recfromcsv(``crabs.csv``)
+</pre>
+<p>which returns a NumPy record array with the fields as descibed in
+Pt. 2 of Advanded matplotlib exercise.</p>
+</li>
+<li><p class="first">Plot 4th (FL) and 5th (RW) columns against each other.</p>
+</li>
+</ul>
+</li>
+<li><p class="first">Escaping the flatland.</p>
+<p>In this exercise you will try to represent 3 different variables on
+the 2D screen using different visualization techniques.</p>
+<ul>
+<li><p class="first">Plot columns <tt class="docutils literal">CL</tt> and <tt class="docutils literal">RW</tt> each against <tt class="docutils literal">FL</tt> on different
+sub-panels:</p>
+<pre class="literal-block">
+plt.subplot(211)
+#plotting command 1
+plt.subplot(211)
+#plotting command 2
+</pre>
+</li>
+<li><p class="first">Plot the same panels, but arranged vertically.</p>
+</li>
+<li><p class="first">Plot both variables on the same panel, but using two different
+Y axes. You may add another Y axis using <tt class="docutils literal">plt.twinx</tt> function.
+Don't forget to add labels.</p>
+</li>
+<li><p class="first">Plot one of the variables (<tt class="docutils literal">CL</tt>) as position along the Y axis
+and the other (<tt class="docutils literal">RW</tt>) as a size of the circle. To this end, you
+may use the <tt class="docutils literal">plt.scatter</tt> command.</p>
+</li>
+<li><p class="first">Which of these different representations are better in showing
+the relations between these variables?  Choose
+the one you find the most efficient.</p>
+</li>
+</ul>
+</li>
+<li><p class="first">Grouping.</p>
+<p>The crab data contains measurement on crabs of different species
+and  sex (categorical variables). Group the data points belonging
+to the same species or sex using different techniques:</p>
+<ul class="simple">
+<li>connect them by lines,</li>
+<li>draw them in different colors,</li>
+<li>draw them in different panels.</li>
+<li>Which of the methods allows to visualize better relation between
+numerical data (size of the crab) and categorogical data? Choose
+the one you find the most efficient.</li>
+</ul>
+</li>
+<li><p class="first">Final figure.</p>
+<ul class="simple">
+<li>export your plot to PDF (use <tt class="docutils literal">plt.savefig</tt>)</li>
+<li>Compare your final figure against the Visualization checklist.
+What might be improved? How can it be achieved in <tt class="docutils literal">matplotlib</tt>?</li>
+<li>If you have time left, try to implement your ideas (or ask if you
+do not know how to start).</li>
+</ul>
+</li>
+</ol>
+<p>Congratulations, you have just learnt the basics of matplotlib and you
+are ready to create your own data visualizations. I hope you enjoyed
+the exercise.</p>
+<p><strong>Additional resources</strong>:</p>
+<p><a class="reference external" href="http://matplotlib.sourceforge.net/users/pyplot_tutorial.html">http://matplotlib.sourceforge.net/users/pyplot_tutorial.html</a></p>
+<p><a class="reference external" href="http://matplotlib.sourceforge.net/gallery.html">http://matplotlib.sourceforge.net/gallery.html</a></p>
+</div>
+<div class="section" id="advanced-matplotlib-publication-ready-plots">
+<h1>Advanced matplotlib: Publication-ready plots</h1>
+<p>The goal of this exercise is to get accustomed to object-oriented
+interface to matplotlib and go through entire process of figure
+preparation - from design to the final figure ready for submission.</p>
+<ol class="arabic">
+<li><p class="first">Open the supplied example of  <tt class="docutils literal">mpl_template.py</tt>.</p>
+<ul class="simple">
+<li>Read comments and identify basic matplotlib artists (like lines, axes, etc.)</li>
+<li>Open <tt class="docutils literal">mpl_artists</tt> module and  try to understand how subclassing is used to define axes lines
+(<tt class="docutils literal">spines</tt>
+in matplotlib) that provide framing and at the same time show data
+range (range frames, see Tufte, The Visual Display of Quantitative
+Information) and hide the default top ticks.</li>
+</ul>
+</li>
+<li><p class="first">Import CSV file <tt class="docutils literal">crabs.csv</tt> into Python. These data have 0 rows
+and 8 columns, describing 5 morphological measurements on 50 crabs
+each of two colour forms and both sexes, of the species
+Leptograpsus variegatus collected at Fremantle, W. Australia (From
+Venables &amp; Ripley,Modern Applied Statistics with S, Springer,
+2002).</p>
+<p>The file contain following columns:</p>
+<ul class="simple">
+<li><tt class="docutils literal">sp</tt> species - B (blue) or O (orange)</li>
+<li><tt class="docutils literal">sex</tt> you may guess</li>
+<li><tt class="docutils literal">index</tt> 1:50 for each group (blue male, blue female, etc.)</li>
+<li><tt class="docutils literal">FL</tt> frontal lobe size (mm)</li>
+<li><tt class="docutils literal">RW</tt> rear width (mm).</li>
+<li><tt class="docutils literal">CL</tt> carapace length (mm).</li>
+<li><tt class="docutils literal">CW</tt> carapace width (mm).</li>
+<li><tt class="docutils literal">BD</tt> body depth (mm).</li>
+</ul>
+<p>Recommend way of doing it is with <tt class="docutils literal">numpy.recfromcsv</tt> function
+(returns a numpy record array introduced during the numpy lecture),
+but other alternatives are allowed (such as <tt class="docutils literal">csv</tt> module or
+standard IO).</p>
+</li>
+<li><p class="first">Modify the plot template to plot two of the above measurements
+against each other. Do not forget to update labels!</p>
+</li>
+<li><p class="first">Add a third dimension to the plot using different methods (choose
+two):</p>
+<ul class="simple">
+<li>plot two different dependent (y) variable against the same
+independent (x) variable using different markers. Use double
+y-axes to show the data dimensions (you may define a new Axes
+object of type <tt class="docutils literal">mpl_artists.TwinAxes</tt>).</li>
+<li>represent the third variable with the circles of different sizes
+(Hint: use <tt class="docutils literal">markersize</tt> keyword argument of <tt class="docutils literal">Line2D</tt>)</li>
+<li>represent the third variable on a color scale, add a color bar
+to the plot</li>
+<li>represent the data as a short line segments, where the position
+of line on XY plane encodes two of the variables and the angle of
+the segment encodes the third one.</li>
+</ul>
+<p>Which of the data representation is the most accurate?</p>
+</li>
+<li><p class="first">Group variables belonging to the same crab group (blue male, blue
+female, etc., choose one method):</p>
+<ul class="simple">
+<li>by connecting the points with a line</li>
+<li>by use of color (make sure not to use colors both for representing groups
+and representing one of dependent variables)</li>
+</ul>
+</li>
+<li><p class="first">Repeat exercise 4 and 5, but represent different dependent
+variables/groups in different (non-overlapping) axes.</p>
+<p>Does use of multiple panels increase readability?</p>
+</li>
+<li><p class="first">Preparing publication-quality figure file. Let us assume that you
+want to prepare the final figure for submission by combining
+panels each of which contains one of the figures presented above.
+Although it is possible (and straigthforward) to do that by
+creating independent axes in the figure, often such approach poses
+several problems (for example, if the panel itself contains several
+axes, we would have to shift all of them to new positions).
+Therefore, here we will do that as a post processing step:</p>
+<ul>
+<li><p class="first">choose two of above figures and export them to SVG file.</p>
+</li>
+<li><p class="first">modify the <tt class="docutils literal">combine_svg.py</tt> example to read in the figures and
+move them to their final positions.</p>
+</li>
+<li><p class="first">use inkscape from command line to export the generated SVG file
+to a format of choice, such as PDF:</p>
+<pre class="literal-block">
+inkscape final_figure1.svg --export-pdf=final_figure1.pdf
+</pre>
+</li>
+<li><p class="first">(Optional) You may easily automate the entire process using a
+simple <tt class="docutils literal">Makefile</tt> similar to this one (available in exercises
+directory):</p>
+<pre class="literal-block">
+mpl_figure1.svg : mpl_figure1.py
+    python mpl_figure1.py mpl_figure1.svg
+
+mpl_figure2.svg : mpl_figure2.py
+    python mpl_figure2.py mpl_figure2.svg
+
+final_figure1.svg : final_figure1.py mpl_figure1.svg mpl_figure2.svg
+    python combine_svg.py
+
+%.pdf : %.svg
+    inkscape $&lt; --export-pdf=$&#64;
+</pre>
+</li>
+</ul>
+</li>
+<li><p class="first">&quot;Test drive&quot; your figure. Use the &quot;Visualization Checklist&quot;
+(presented during the lecture and available together with handouts)
+to test whether your figure is optimally designed. What could be
+improved?</p>
+</li>
+</ol>
+</div>
+<div class="section" id="visualising-pubmed-search-on-the-web">
+<h1>Visualising Pubmed search on the Web</h1>
+<p>The goal of this exercise is to create a simple website that will
+present geographic data on popularity of different research topics
+over the world. To this end, you will download the list of
+publications fulfilling your search criteria from the Pubmed, group
+them according to countries (based on affiliations), count them, and
+present the results on a world map.</p>
+<p><em>Required modules</em>: <tt class="docutils literal">Biopython</tt>, <tt class="docutils literal">CherryPy</tt>, <tt class="docutils literal">gviz_api</tt></p>
+<p><em>Required files</em> (supplied): <tt class="docutils literal">pubmed.py</tt>, <tt class="docutils literal">map_world.py</tt>,
+<tt class="docutils literal">page_template.html</tt>, <tt class="docutils literal">iso_contries.csv</tt></p>
+<p>At the end of this exercises, you should be able to:</p>
+<ul class="simple">
+<li>run pubmed searches ;)</li>
+<li>use Google Charts API to create simple visualizations,</li>
+<li>create a simple web application in Python,</li>
+<li>write simple HTML/JavaScript pages to visualize data,</li>
+</ul>
+<ol class="arabic">
+<li><p class="first">Use the supllied <tt class="docutils literal">pubmed.py</tt> module to download data from pubmed and store the results in a CSV file. You will need to use the following functions:</p>
+<ul class="simple">
+<li><tt class="docutils literal">pubmed_search</tt>  -- returns a list of Pubmed publications on a specified topic</li>
+<li><tt class="docutils literal">get_affiliation</tt> -- parses affiliation from the publications entries</li>
+<li><tt class="docutils literal">search_countries</tt> -- give the list of affiliations produces a dictionary whose keys are country names and values the number of times the  country appears in the affiliation</li>
+<li><tt class="docutils literal">country2csv</tt> -- stores the above dictionary in two-column comma-separated-files</li>
+</ul>
+<p>Don't forget to change the email address to your email (see at the top of <cite>pubmed.py</cite>)</p>
+</li>
+<li><p class="first">Present the results of the Pubmed search on a map rendered in the browser.</p>
+<ol class="loweralpha simple">
+<li>Run the sample web application <tt class="docutils literal">map_world.py</tt> (written using <a class="reference external" href="http://www.cherrypy.org/wiki/CherryPyTutorial">CherryPy</a> web framework) and open <a class="reference external" href="http://127.0.0.1:8080">http://127.0.0.1:8080</a> in your browser. The script presents sample data on a map. Try hoovering over the countries with the mouse pointer.</li>
+<li>Modify the <tt class="docutils literal">map_world.py</tt> script to read the data from CSV file, store it in <a class="reference external" href="http://code.google.com/apis/chart/interactive/docs/dev/gviz_api_lib.html">DataTable</a> and pass it to the HTML page template (<tt class="docutils literal">page_template.html</tt>, please take a look at the template, but do not modify it yet). You will need to modify the <tt class="docutils literal">index</tt> method of <tt class="docutils literal">HelloWorld</tt>.</li>
+</ol>
+</li>
+<li><p class="first">Add dynamic content to the map.</p>
+<p>So far the map shows the results of the search stored in CSV file on whichever topic you chose. However, it would be nice to allow the web-app user to specify his own search term and visualize the results. To this end, you will combine the <tt class="docutils literal">pubmed.py</tt> module with the web framework <tt class="docutils literal">map_world.py</tt>.</p>
+<ol class="loweralpha">
+<li><p class="first">Add a simple form to the <tt class="docutils literal">page_template.html</tt>. It may look like this (if you know HTML the code should look familiar):</p>
+<pre class="literal-block">
+&lt;form action=&quot;search&quot; name=&quot;SearchForm&quot; method=&quot;get&quot;&gt;
+ &lt;input type=&quot;text&quot; name=&quot;keyword&quot; id=&quot;search_field&quot; size=&quot;55&quot;&gt;
+ &lt;input type=&quot;submit&quot; id=&quot;updateButton&quot; value=&quot;Search&quot;&gt;
+&lt;/form&gt;
+</pre>
+</li>
+<li><p class="first">Run the web application. See what happens when you type in the term and click search (look at the requested URL). In order to handle the request you will only need to add a <tt class="docutils literal">search</tt>  method (or whatever you specified as an <tt class="docutils literal">action</tt> in the above form) to <tt class="docutils literal">HelloWorld</tt>, which takes a keyword parameter called <tt class="docutils literal">keyword</tt>. For the time being, let the return value of the method be the value of the parameter. Perform the search again an see what happens... Simple, isn't it? That's CherryPy!</p>
+</li>
+<li><p class="first">Implement the <tt class="docutils literal">search</tt> method to run the Pubmed search with  the term given in <tt class="docutils literal">keyword</tt> (compare with Point 1 above), store the results in DataTable, generate a JavaScript code for this table and pass it to the page  template. Test your implementation. Pubmed searches are quite slow, so you may need to wait a while (in the meantime think how to cache the results of search, so that next time you run the same search it is faster).</p>
+</li>
+</ol>
+</li>
+</ol>
+<ol class="arabic simple" start="4">
+<li>Homework. Combine the Pubmed searches with Google Maps... just kidding!</li>
+</ol>
+<p>I hope you enjoyed this exercise!</p>
+<p><em>Additional Resources</em>:</p>
+<p><a class="reference external" href="http://wiki.python.org/moin/WebProgramming">http://wiki.python.org/moin/WebProgramming</a></p>
+</div>
+</div>
+</body>
+</html>
